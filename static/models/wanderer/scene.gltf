@@ -1,0 +1,909 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 65340,
+      "max": [
+        13.919600486755371,
+        2.0929276943206787,
+        10.531699180603027
+      ],
+      "min": [
+        -16.09002685546875,
+        -13.101218223571777,
+        -12.637353897094727
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 784080,
+      "componentType": 5126,
+      "count": 65340,
+      "max": [
+        0.9999455809593201,
+        0.9999963641166687,
+        0.9999998807907104
+      ],
+      "min": [
+        -0.9998652935028076,
+        -0.9999129176139832,
+        -0.999991238117218
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 65340,
+      "max": [
+        0.7960784435272217,
+        0.772549033164978,
+        0.7686274647712708,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65340,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 522720,
+      "componentType": 5126,
+      "count": 65340,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 179934,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 1568160,
+      "componentType": 5126,
+      "count": 65444,
+      "max": [
+        233.92942810058594,
+        141.9058074951172,
+        237.93418884277344
+      ],
+      "min": [
+        -369.90423583984375,
+        -117.71876525878906,
+        -236.1882781982422
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 2353488,
+      "componentType": 5126,
+      "count": 65444,
+      "max": [
+        0.9989108443260193,
+        0.9999673962593079,
+        0.9999931454658508
+      ],
+      "min": [
+        -0.9999988675117493,
+        -0.9998108148574829,
+        -0.9998463988304138
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 1045440,
+      "componentType": 5126,
+      "count": 65444,
+      "max": [
+        0.9843137264251709,
+        0.9333333373069763,
+        0.9960784316062927,
+        1.0
+      ],
+      "min": [
+        0.0470588244497776,
+        0.0235294122248888,
+        0.003921568859368563,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1045440,
+      "componentType": 5126,
+      "count": 65444,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1568992,
+      "componentType": 5126,
+      "count": 65444,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 719736,
+      "componentType": 5125,
+      "count": 187692,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3138816,
+      "componentType": 5126,
+      "count": 5442,
+      "max": [
+        359.9770202636719,
+        726.6544799804688,
+        413.69561767578125
+      ],
+      "min": [
+        -513.9066162109375,
+        -86.04408264160156,
+        -328.9911804199219
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3204120,
+      "componentType": 5126,
+      "count": 5442,
+      "max": [
+        0.9924479722976685,
+        0.6825215220451355,
+        0.9992029070854187
+      ],
+      "min": [
+        -0.9994701743125916,
+        -0.9999296069145203,
+        -0.9688348770141602
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2092544,
+      "componentType": 5126,
+      "count": 5442,
+      "max": [
+        0.8784313797950745,
+        0.886274516582489,
+        0.9254902005195618,
+        1.0
+      ],
+      "min": [
+        0.7058823704719543,
+        0.7921568751335144,
+        0.8039215803146362,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2092544,
+      "componentType": 5126,
+      "count": 5442,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2136080,
+      "componentType": 5126,
+      "count": 5442,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1470504,
+      "componentType": 5125,
+      "count": 15552,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3269424,
+      "componentType": 5126,
+      "count": 19818,
+      "max": [
+        137.5795440673828,
+        14.508395195007324,
+        129.88768005371094
+      ],
+      "min": [
+        -181.72811889648438,
+        -37.26462936401367,
+        -56.92961502075195
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3507240,
+      "componentType": 5126,
+      "count": 19818,
+      "max": [
+        0.9989805817604065,
+        0.9999590516090393,
+        0.9916908144950867
+      ],
+      "min": [
+        -0.9967044591903687,
+        -0.9999927282333374,
+        -0.9989926218986511
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2179616,
+      "componentType": 5126,
+      "count": 19818,
+      "max": [
+        0.7960784435272217,
+        0.772549033164978,
+        0.772549033164978,
+        1.0
+      ],
+      "min": [
+        0.2078431397676468,
+        0.29411765933036804,
+        0.3490196168422699,
+        0.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2179616,
+      "componentType": 5126,
+      "count": 19818,
+      "max": [
+        11.113733291625977,
+        1.0
+      ],
+      "min": [
+        0.0066800592467188835,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2338160,
+      "componentType": 5126,
+      "count": 19818,
+      "max": [
+        11.113733291625977,
+        1.0
+      ],
+      "min": [
+        0.0066800592467188835,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1532712,
+      "componentType": 5125,
+      "count": 56796,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3745056,
+      "componentType": 5126,
+      "count": 484,
+      "max": [
+        -1.8981192111968994,
+        -3.556506872177124,
+        -0.8563506007194519
+      ],
+      "min": [
+        -2.4169814586639404,
+        -3.8164830207824707,
+        -0.9720924496650696
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3750864,
+      "componentType": 5126,
+      "count": 484,
+      "max": [
+        0.7891575694084167,
+        0.855599045753479,
+        0.9971345067024231
+      ],
+      "min": [
+        -0.6339580416679382,
+        -0.7798750400543213,
+        -0.9992196559906006
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2496704,
+      "componentType": 5126,
+      "count": 484,
+      "max": [
+        0.8784313797950745,
+        0.886274516582489,
+        0.9137254953384399,
+        1.0
+      ],
+      "min": [
+        0.8784313797950745,
+        0.886274516582489,
+        0.9137254953384399,
+        0.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2496704,
+      "componentType": 5126,
+      "count": 484,
+      "max": [
+        44.418006896972656,
+        1.0
+      ],
+      "min": [
+        0.007161749992519617,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1759896,
+      "componentType": 5125,
+      "count": 1392,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3756672,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.039043623954057693,
+        0.05000000074505806,
+        3.0616169246677665e-18
+      ],
+      "min": [
+        -0.039043623954057693,
+        -0.05000000074505806,
+        -3.0616169246677665e-18
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 3756720,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "min": [
+        0.0,
+        0.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 2504448,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "min": [
+        1.0,
+        1.0,
+        1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2500576,
+      "componentType": 5126,
+      "count": 4,
+      "max": [
+        1.0,
+        1.0
+      ],
+      "min": [
+        0.0,
+        0.0
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1765464,
+      "componentType": 5125,
+      "count": 6,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "betocarrillo (https://sketchfab.com/betocarrillo)",
+      "license": "CC-BY-SA-4.0 (http://creativecommons.org/licenses/by-sa/4.0/)",
+      "source": "https://sketchfab.com/3d-models/wanderer-above-the-sea-of-fog-518e605e9b734c86aab5bc22f9797f77",
+      "title": "Wanderer above the sea of fog"
+    },
+    "generator": "Sketchfab-12.67.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1765488,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2500608,
+      "byteOffset": 1765488,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3756768,
+      "byteOffset": 4266096,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2504512,
+      "byteOffset": 8022864,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 10527376,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsUsed": [
+    "KHR_materials_unlit"
+  ],
+  "images": [
+    {
+      "uri": "textures/brush_Ink_baseColor.png"
+    },
+    {
+      "uri": "textures/brush_ThickPaint_baseColor.png"
+    },
+    {
+      "uri": "textures/brush_Marker_baseColor.png"
+    },
+    {
+      "uri": "textures/media_image_Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog_baseColor.jpeg"
+    }
+  ],
+  "materials": [
+    {
+      "alphaMode": "MASK",
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "brush_Ink",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "alphaMode": "MASK",
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "brush_ThickPaint",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "alphaCutoff": 0.067,
+      "alphaMode": "MASK",
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "brush_Marker",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.0
+      }
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_unlit": {}
+      },
+      "name": "media_image_Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.0
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 2,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 4
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_1",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 8,
+            "NORMAL": 7,
+            "POSITION": 6,
+            "TEXCOORD_0": 9,
+            "TEXCOORD_1": 10
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_2",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 14,
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 15,
+            "TEXCOORD_1": 16
+          },
+          "indices": 17,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_3",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 20,
+            "NORMAL": 19,
+            "POSITION": 18,
+            "TEXCOORD_0": 21,
+            "TEXCOORD_1": 22
+          },
+          "indices": 23,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_4",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 26,
+            "NORMAL": 25,
+            "POSITION": 24,
+            "TEXCOORD_0": 27
+          },
+          "indices": 28,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Object_5",
+      "primitives": [
+        {
+          "attributes": {
+            "COLOR_0": 31,
+            "NORMAL": 30,
+            "POSITION": 29,
+            "TEXCOORD_0": 32
+          },
+          "indices": 33,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.6764004826545715,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.5019107794213483e-16,
+        -0.6764004826545715,
+        0.0,
+        0.0,
+        0.6764004826545715,
+        1.5019107794213483e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3,
+        5,
+        7,
+        9,
+        11,
+        13
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "brush_Ink_g0_b0_0"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_4"
+    },
+    {
+      "children": [
+        6
+      ],
+      "name": "brush_Ink_g0_b1_3"
+    },
+    {
+      "mesh": 1,
+      "name": "Object_6"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "brush_Ink_g0_b2_4"
+    },
+    {
+      "mesh": 2,
+      "name": "Object_8"
+    },
+    {
+      "children": [
+        10
+      ],
+      "name": "brush_ThickPaint_g0_b0_5"
+    },
+    {
+      "mesh": 3,
+      "name": "Object_10"
+    },
+    {
+      "children": [
+        12
+      ],
+      "name": "brush_Marker_g0_b0_6"
+    },
+    {
+      "mesh": 4,
+      "name": "Object_12"
+    },
+    {
+      "children": [
+        14
+      ],
+      "matrix": [
+        40.35034942626953,
+        0.005756596103310585,
+        35.51721954345703,
+        0.0,
+        -2.182642936706543,
+        53.65401840209961,
+        2.470957040786743,
+        0.0,
+        -35.45009994506836,
+        -3.296895980834961,
+        40.274620056152344,
+        0.0,
+        -11.413470268249512,
+        3.0325920581817627,
+        16.79265022277832,
+        1.0
+      ],
+      "name": "image_Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog_0_7"
+    },
+    {
+      "mesh": 5,
+      "name": "Object_14"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}

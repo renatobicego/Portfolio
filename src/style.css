@@ -1,0 +1,151 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Martel&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Scroll bar */
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #292929; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: #e5e5e5; 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: #a0a0a0; 
+  }
+
+/* For Webkit-based browsers (Chrome, Safari and Opera) */
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+
+/* For IE, Edge and Firefox */
+.scrollbar-hide {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+}
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+
+body {
+    background-color: #C2CEEA;
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+}
+
+section{
+    position: relative;
+    visibility: hidden;
+    z-index: 3;
+}
+
+.webgl-container {
+    width: 100lvw;
+    height: 100lvh;
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+}
+
+.webgl
+{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+    z-index: -1;
+}
+
+h1{
+    font-family: 'Martel', serif;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 162px;
+}
+
+h2{
+    line-height: 144.5%;
+    /* or 69px */
+}
+
+header{
+    color: rgb(34, 34, 34);
+    z-index: 4;
+    visibility: hidden;
+}
+header li {
+    cursor: pointer;
+}
+
+.vertical-header {
+    writing-mode: vertical-rl;
+    background-color:#252423e1;
+    font-weight: 300;
+    margin-right: -80px;
+}
+
+.border-text {
+    text-shadow: 0px 0px 0px #1a1919;
+}
+
+.btn-section{
+    margin-top: 40px;
+    color: white;
+    border: 2px solid white;
+    border-radius: 30px;
+    background: #25242322;
+    padding: 9px 45px 7px;
+    font-size: x-large;
+    box-shadow: 0px 0px 0px rgb(38, 38, 38);
+}
+.projects {
+    background-color: #252423e1;
+    overflow-y: auto;
+}
+
+.close {
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    width: 35px;
+}
+
+.blur-effect > *:not(header){
+    filter: blur(5px);
+}
+
+#contact, #about-me{
+    background-color: #252423e1
+}
+
+
+
+@media (max-width: 767px) {
+    .btn-section{
+        margin-top: 30px;
+        border-radius: 30px;
+        padding: 7px 40px 5px;
+        font-size: large;
+    }
+}
+
