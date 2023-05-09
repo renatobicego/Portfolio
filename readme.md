@@ -1,5 +1,5 @@
 # Portfolio Renato Bicego
-Portfolio showing all my works and projects, made with ThreeJs and GSAP. 
+Portfolio showing all my works and projects, made with ThreeJs, VanillaJS, TailwindCSS and GSAP. 
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
