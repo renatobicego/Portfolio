@@ -4,7 +4,7 @@ import { urlProjects } from "../data/urlProjects"
 import {disableScroll, enableScroll } from "./handleScroll"
 
 const toggleProjectsDiv = (id) => {
-  document.querySelector(id).classList.toggle('hidden')
+  document.querySelector(id).classList.toggle('invisible')
   document.querySelector('header').classList.toggle('hidden')
   document.querySelector('body').classList.toggle('scrollbar-hide')
 }

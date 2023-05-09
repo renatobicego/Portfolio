@@ -20,7 +20,7 @@ const checkIfProjectsActive = () => {
     let isActive = false
 
     document.querySelectorAll('.projects').forEach(d => {
-        if(!d.classList.contains('hidden')){
+        if(!d.classList.contains('invisible')){
             isActive = true
         }
     })
