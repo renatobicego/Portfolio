@@ -21,9 +21,9 @@ export const urlProjects = [
         altText: 'Atletismo Uncuyo project'
     },
     {
-        href:'https://github.com/renatobicego/Consultorio-Odontologico',
-        imgSrc: 'img/projects/backend.png',
-        altText: 'Consultorio odontológico project'
+        href:'https://www.behance.net/gallery/177706795/Asociacion-Mendocina-de-Atletismo',
+        imgSrc: 'img/projects/portada.png',
+        altText: 'Asociación Mendocina de atletismo project'
     },
     {
         href:'https://github.com/renatobicego/Front-end1/tree/master/Bicego_Renato',
