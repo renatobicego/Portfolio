@@ -16,11 +16,6 @@ export const urlProjects = [
         altText: 'Fender bass landing page link to project'
     },
     {
-        href:'https://youtu.be/sCMrwwtAnsg',
-        imgSrc: 'img/projects/atletismo.png',
-        altText: 'Atletismo Uncuyo project'
-    },
-    {
         href:'https://www.behance.net/gallery/177706795/Asociacion-Mendocina-de-Atletismo',
         imgSrc: 'img/projects/portada.png',
         altText: 'Asociación Mendocina de atletismo project'
@@ -29,5 +24,10 @@ export const urlProjects = [
         href:'https://github.com/renatobicego/Front-end1/tree/master/Bicego_Renato',
         imgSrc: 'img/projects/frontend1.png',
         altText: 'Frontend project'
+    },
+    {
+        href:'https://mimpronta.com',
+        imgSrc: 'img/projects/mimpronta.png',
+        altText: 'Mimpronta project'
     },
 ]
